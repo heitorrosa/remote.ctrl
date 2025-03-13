@@ -30,6 +30,11 @@ void on_message(websocket::stream<tcp::socket>& ws, beast::error_code ec, beast:
         variavel = 1;
     }
 
+    // Check the message "opencmd" and open the command prompt
+	if (message == "opencmd") {
+		system("start cmd");
+	}
+
     // Send a response back to the client
     std::string response = "variavel: " + std::to_string(variavel);
     ws.text(true);
