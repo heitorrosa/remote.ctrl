@@ -7,6 +7,8 @@ Install the required dependencies:
 
 Install the latest [release](https://github.com/heitorrosa/remote.ctrl/releases) and run it.
 
+Access the [Web Interface](https://heitorrosa.github.io/remote.ctrl/) and have fun 😊
+
 # Building the application
 Clone the repository into Visual Studio 2022 and build it with the Local Windows Debugger, make sure to have [Boost.Asio](https://www.boost.org/doc/libs/1_83_0/doc/html/boost_asio.html) and [Boost.Beast](https://www.boost.org/doc/libs/1_85_0/libs/beast/doc/html/index.html) installed.
 
