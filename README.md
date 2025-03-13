@@ -7,6 +7,8 @@ Install the required dependencies:
 
 Install the latest [release](https://github.com/heitorrosa/remote.ctrl/releases) and run it.
 
+<br>
+
 Access the [Web Interface](https://heitorrosa.github.io/remote.ctrl/) and have fun 😊
 
 # Building the application
