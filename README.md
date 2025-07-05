@@ -14,7 +14,5 @@ Access the [Web Interface](https://heitorrosa.github.io/remote.ctrl/) and have f
 # Building the application
 Clone the repository into Visual Studio 2022 and build it with the Local Windows Debugger, make sure to have [Boost.Asio](https://www.boost.org/doc/libs/1_83_0/doc/html/boost_asio.html) and [Boost.Beast](https://www.boost.org/doc/libs/1_85_0/libs/beast/doc/html/index.html) installed.
 
-<br>
-
 #
 This application should be used more as a proof of concept for more advanced projects that required such WebSocket implementation, like Web-Based programs.
